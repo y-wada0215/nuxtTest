@@ -1,0 +1,2 @@
+# nuxtTest
+Created with CodeSandbox
